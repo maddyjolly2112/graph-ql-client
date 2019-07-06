@@ -1,3 +1,3 @@
-# graph-ql-client with
+# graph-ql-client
 
 ## React GraphQL Client with Github api
